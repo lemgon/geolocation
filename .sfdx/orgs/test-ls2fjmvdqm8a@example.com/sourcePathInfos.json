@@ -49,11 +49,11 @@
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1518634079778,
-            "changeTime": 1518634079778,
+            "size": 224,
+            "modifiedTime": 1518634912737,
+            "changeTime": 1518634912737,
             "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -105,7 +105,7 @@
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation",
             "isDirectory": true,
             "size": 384,
-            "modifiedTime": 1518632609187,
+            "modifiedTime": 1518634392158,
             "changeTime": 1518632609187,
             "contentHash": "6ef69b0c2f123f84128940efc746147ca59d3764",
             "isMetadataFile": false,
@@ -467,14 +467,14 @@
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1518633135383,
-            "changeTime": 1518633135383,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 335,
+            "modifiedTime": 1518635183000,
+            "changeTime": 1518635183275,
+            "contentHash": "61d22960bc5ef4616a99fb8a5193908b7fe261f0"
         }
     ],
     [
@@ -495,10 +495,10 @@
         {
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1518633135386,
-            "changeTime": 1518633135386,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 45,
+            "modifiedTime": 1518634545151,
+            "changeTime": 1518634545151,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -532,14 +532,14 @@
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1518633135385,
-            "changeTime": 1518633135385,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 797,
+            "modifiedTime": 1518635179306,
+            "changeTime": 1518635179306,
+            "contentHash": "6da6d637d46abc6f782408b9da718702ca9f3dd9"
         }
     ],
     [
@@ -597,14 +597,14 @@
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1518634569951,
+            "changeTime": 1518634569951,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1518634170656,
-            "changeTime": 1518634170656,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -792,40 +792,40 @@
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1518634079783,
             "changeTime": 1518634079783,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1518633947773,
             "changeTime": 1518633996273,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518634079782,
             "changeTime": 1518634079782,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -835,62 +835,62 @@
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 343,
-            "modifiedTime": 1518634098498,
-            "changeTime": 1518634098498,
-            "contentHash": "9191da3ad205b0309dea2dfcb1096ae2401490cf"
+            "size": 544,
+            "modifiedTime": 1518635057642,
+            "changeTime": 1518635057642,
+            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1518634079779,
             "changeTime": 1518634079779,
-            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1"
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 112,
             "modifiedTime": 1518634175800,
             "changeTime": 1518634175800,
-            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075"
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518634079783,
             "changeTime": 1518634079783,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518634079781,
             "changeTime": 1518634079781,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -900,153 +900,192 @@
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1518634179800,
-            "changeTime": 1518634179800,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+            "size": 395,
+            "modifiedTime": 1518635186985,
+            "changeTime": 1518635186985,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518634079780,
             "changeTime": 1518634079780,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518634079781,
             "changeTime": 1518634079781,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518633585193,
             "changeTime": 1518633585193,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 121,
             "modifiedTime": 1518633845396,
             "changeTime": 1518633845398,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1518633585188,
             "changeTime": 1518633585188,
-            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f"
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 171,
             "modifiedTime": 1518633862684,
             "changeTime": 1518633862686,
-            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9"
+            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518633585193,
             "changeTime": 1518633585193,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518633585192,
             "changeTime": 1518633585192,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1518633585189,
             "changeTime": 1518633585189,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518633585190,
             "changeTime": 1518633585190,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518633585192,
             "changeTime": 1518633585192,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1518634912738,
+            "changeTime": 1518634912738,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1518635189332,
+            "changeTime": 1518635189332,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Lemuel/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1518634912738,
+            "changeTime": 1518634912738,
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
         }
     ]
 ]
